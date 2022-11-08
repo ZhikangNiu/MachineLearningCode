@@ -1,8 +1,8 @@
 # MachineLearningCode
 ## 实现算法
-- 回归算法
-    - 线性回归
-    - 对数几率回归
+- [x] 回归算法
+    - [x] 线性回归 
+    - [x] 对数几率回归
     - LASSO回归
     - Ridge回归
 
