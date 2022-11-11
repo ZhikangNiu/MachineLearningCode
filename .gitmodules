@@ -1,0 +1,3 @@
+[submodule "SVM/svm_theme_classifier"]
+	path = SVM/svm_theme_classifier
+	url = git@github.com:NoFish-528/svm_theme_classifier.git
