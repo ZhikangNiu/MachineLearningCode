@@ -1,16 +1,16 @@
 # MachineLearningCode
 ## 实现算法
-- [ ] 回归算法
+- [x] 回归算法
     - [x] 线性回归 
     - [x] 对数几率回归
     - [x] LASSO回归
-    - Ridge回归
+    - [x] Ridge回归
 
 - [x] LDA算法
 - [x] k近邻算法
 - 决策树
-- 神经网络
-- 支持向量机
+- [x] 神经网络
+- [x] 支持向量机
 - 集成模型
   - AdaBoost
   - GBDT
